@@ -157,7 +157,7 @@ Throughout this project, I discovered:
 - Implement more complex slider interaction patterns
 - Create configurable sensitivity settings
 
-## 🌈 Conclusion
+## 🚦 Conclusion
 
 This project is a testament to thinking outside the box in game design. By reimagining something as fundamental as player movement, we open doors to innovative gameplay experiences.
 
