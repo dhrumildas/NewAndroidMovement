@@ -161,9 +161,6 @@ Throughout this project, I discovered:
 
 This project is a testament to thinking outside the box in game design. By reimagining something as fundamental as player movement, we open doors to innovative gameplay experiences.
 
-## License
-[Insert appropriate license here]
-
 ## Acknowledgments
 - Unity Technologies
 - The game development community
